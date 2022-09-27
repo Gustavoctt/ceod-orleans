@@ -1,0 +1,57 @@
+.container{
+  max-width: 70rem;
+  margin: 2rem auto;
+  padding: 0 1rem;
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.imagesTop{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+
+  gap: 1rem;
+}
+
+.imagesFooter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  padding: 1rem 0;
+}
+
+.container header .logoCapitulo{
+  width: 5rem;
+  height: auto;
+}
+
+.container header .logoCeod{
+  width: 8.5rem;
+  height: auto;
+}
+
+.container header div .logoDmSc{
+  width: 10rem;
+  height: auto;
+}
+
+/* .container header img + img {
+  margin-left: 1rem;
+} */
+
+.container header p{
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.container section{
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

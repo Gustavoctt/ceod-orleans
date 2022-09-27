@@ -1,0 +1,22 @@
+a{
+  background: transparent;
+  border: 2px solid var(--white);
+  color: var(--white);
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  text-decoration: none;
+
+  width: 320px;
+  height: 40px;
+  
+}
+
+a + a{
+  margin-top: 1rem;
+}

@@ -21,11 +21,10 @@ function App() {
 
       <section>
         <ButtonLink 
-          title="Compre seu ingresso" 
-          url="https://www.sympla.com.br/evento/xxxi-congresso-estadual-da-ordem-demolay-para-o-estado-de-santa-catarina/1659003" 
+          title="Atividades esportivas - Inscrição" 
+          url="https://docs.google.com/forms/d/e/1FAIpQLScUmLqI-xmNPC63bXPdjQ0pWNw_stlO9irRoMOHoHjKL-vJ4w/viewform" 
         />
-        <ButtonLink title="Mapa do evento" url="https://github.com/"/>
-        <ButtonLink title="Cronograma" url="https://github.com/"/>
+        <ButtonLink title="DM Talks - Inscrição" url="https://docs.google.com/forms/d/e/1FAIpQLSdU0iHQcrrycMwwhGLhC721v_AhyzCZzYFMhLQ8EbVYQ4W5hA/viewform"/>
       </section>
     </div>
   )

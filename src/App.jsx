@@ -20,11 +20,7 @@ function App() {
       </header>
 
       <section>
-        <ButtonLink 
-          title="Atividades esportivas - Inscrição" 
-          url="https://docs.google.com/forms/d/e/1FAIpQLScUmLqI-xmNPC63bXPdjQ0pWNw_stlO9irRoMOHoHjKL-vJ4w/viewform" 
-        />
-        <ButtonLink title="DM Talks - Inscrição" url="https://docs.google.com/forms/d/e/1FAIpQLSdU0iHQcrrycMwwhGLhC721v_AhyzCZzYFMhLQ8EbVYQ4W5hA/viewform"/>
+        <ButtonLink title="Mapa" url="https://drive.google.com/file/d/1aGKCONcd072P2ht5Antzr-v_ni8w_kPr/view"/>
       </section>
     </div>
   )

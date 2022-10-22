@@ -21,6 +21,7 @@ function App() {
 
       <section>
         <ButtonLink title="Mapa" url="https://drive.google.com/file/d/1aGKCONcd072P2ht5Antzr-v_ni8w_kPr/view"/>
+        <ButtonLink title="Tabela de Esportes" url="https://drive.google.com/drive/folders/1B0bc65yyas8ZYwaYgpbDsJxAXvZicUJD" />
       </section>
     </div>
   )
